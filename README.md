@@ -4,7 +4,7 @@ Java Intro assignment 2
 
 ## Description
 
-#### Chapter 2 - Selections
+#### Chapter 3 - Selections
 
 1) Write the pseudocode and the Java program to calculate future value of an
      investment using compound interest and estimate the value of π .
